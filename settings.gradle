@@ -1,0 +1,1 @@
+include ':mpermissions-annotations', ':mpermissions-compiler', ':sample', ':mpermissions-lib'

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MPermissions.iml" filepath="$PROJECT_DIR$/MPermissions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mpermissions-annotations/mpermissions-annotations.iml" filepath="$PROJECT_DIR$/mpermissions-annotations/mpermissions-annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mpermissions-compiler/mpermissions-compiler.iml" filepath="$PROJECT_DIR$/mpermissions-compiler/mpermissions-compiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mpermissions-lib/mpermissions-lib.iml" filepath="$PROJECT_DIR$/mpermissions-lib/mpermissions-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
+    </modules>
+  </component>
+</project>
